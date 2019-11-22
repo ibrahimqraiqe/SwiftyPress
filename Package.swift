@@ -35,7 +35,7 @@ let package = Package(
                 "ZamzamCore",
                 "ZamzamNotification",
                 "ZamzamUI",
-                "Stencil",
+                //"Stencil",
                 "Kingfisher"
             ]
         ),

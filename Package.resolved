@@ -38,15 +38,6 @@
         }
       },
       {
-        "package": "Stencil",
-        "repositoryURL": "git@github.com:ZamzamInc/Stencil.git",
-        "state": {
-          "branch": "lite",
-          "revision": "2ad923ba172ace3c38a3995eedbec03e322c828b",
-          "version": null
-        }
-      },
-      {
         "package": "SwiftyBeaver",
         "repositoryURL": "git@github.com:SwiftyBeaver/SwiftyBeaver.git",
         "state": {
@@ -59,9 +50,9 @@
         "package": "ZamzamKit",
         "repositoryURL": "git@github.com:ZamzamInc/ZamzamKit.git",
         "state": {
-          "branch": "develop",
-          "revision": "d7117096ae5a84a9259fbd01557e06c39d2c6c21",
-          "version": null
+          "branch": null,
+          "revision": "1dbe4ef76169f2bd6bbadbbe58465fcfcb2c04a2",
+          "version": "5.1.9"
         }
       }
     ]

@@ -38,6 +38,15 @@
         }
       },
       {
+        "package": "Stencil",
+        "repositoryURL": "git@github.com:ZamzamInc/Stencil.git",
+        "state": {
+          "branch": "lite",
+          "revision": "2ad923ba172ace3c38a3995eedbec03e322c828b",
+          "version": null
+        }
+      },
+      {
         "package": "SwiftyBeaver",
         "repositoryURL": "git@github.com:SwiftyBeaver/SwiftyBeaver.git",
         "state": {
